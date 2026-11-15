@@ -1,0 +1,27 @@
+{
+  "name": "White Pink Full",
+  "dataColors": ["#E91E8C", "#F48FB1", "#AD1457", "#F8BBD9", "#880E4F", "#FCE4EC"],
+  "background": "#FFFFFF",
+  "foreground": "#AD1457",
+  "tableAccent": "#E91E8C",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "color": "#AD1457" },
+    "header": { "fontFace": "Segoe UI Semibold", "color": "#AD1457" },
+    "label": { "fontFace": "Segoe UI", "color": "#6D1B4B" },
+    "callout": { "fontFace": "Segoe UI Semibold", "color": "#E91E8C" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "color": { "solid": { "color": "#F8BBD9" } }, "show": true }],
+        "title": [{ "fontColor": { "solid": { "color": "#AD1457" } } }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFF5FA" } }, "transparency": 0 }]
+      }
+    }
+  }
+}
