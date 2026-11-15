@@ -16,6 +16,13 @@ Excel, Power Query, Excel Data Model, Power BI Desktop, DAX
 6. **Design** the dashboard with a custom pink theme, page navigation and a year slicer.
 
 ## Dashboard pages
+![Executive Overview](assets/01-executive-overview.png)
+
+![Category Analysis](assets/02-category-analysis.png)
+
+![Delivery & Customers](assets/03-delivery-customers.png)
+
+
 | Page | Content |
 |---|---|
 | Cover | Branded cover with the section menu |
