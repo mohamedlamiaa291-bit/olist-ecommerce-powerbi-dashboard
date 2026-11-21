@@ -88,6 +88,9 @@ Open the `.pbix` file in Power BI Desktop. To refresh the data, point the Excel 
 ## Data source
 [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) on Kaggle. The raw data files are not included in this repository.
 
+## Next project
+A follow-up project focused on customer retention and RFM segmentation: [Online Retail Retention & RFM](https://github.com/mohamedlamiaa291-bit/online-retail-retention-rfm-powerbi)
+
 ## Author
 **Lamiaa Mohamed**: Data Analyst
 [LinkedIn](https://www.linkedin.com/in/lamiaa-mohamed-422770438) · [Kaggle](https://www.kaggle.com/lamiaamohamed2026)
